@@ -1,0 +1,28 @@
+# Python 관련
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 가상 환경
+venv/
+.venv/
+venv/*
+venv/**/*
+# 오디오 및 기타 임시 파일
+*.wav
+*.mp3
+*.ogg
+*.flac
+*.m4a
+
+# 편집기 및 시스템 파일
+.DS_Store
+.idea/
+.vscode/
+
+# 음성 파일
+target/
+
+# 결과 파일
+result/
